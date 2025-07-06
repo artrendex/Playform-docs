@@ -5,8 +5,8 @@ baseurl: /Playform-docs
 theme: minima
 plugins:
   - jekyll-seo-tag
-minima:
-  header_pages::
+
+header_pages::
     - image-generation-suite.md
     - face-craft-suite.md
     - faq.md
