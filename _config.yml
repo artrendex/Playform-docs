@@ -10,7 +10,10 @@ minima:
   nav_pages:
     - image-generation-suite.md
     - facecraft-suite.md
+    - prompt-free-generation.md
     - faq.md
+
+
 
 # header_pages::
 #     - image-generation-suite.md

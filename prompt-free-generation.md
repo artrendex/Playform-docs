@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Image Generation Suite"
+permalink: /image-generation-suite/
+
+---
+
 # Freeform Diffusion
 
 Freeform Diffusion is Playform's innovative, **visual-first, prompt-free image generator** tool that allows users to create hundreds and thousands of AI-generated visuals without the need for text prompts. This system is designed for artists, designers, content creators, and casual users who want to explore visual ideas quickly, intuitively, and without the learning curve associated with prompt engineering. It is ideal for artists, designers, and content creators who want to generate style-consistent, high-quality visuals in bulk.
