@@ -1,5 +1,5 @@
 ---
-layout: my-page
+layout: page
 title: "Face Suite"
 permalink: /facecraft-suite/
 
