@@ -1,3 +1,10 @@
+---
+layout: page
+title: "FAQ"
+permalink: /faq/
+
+---
+
 # Playform FAQ
 
 ## 🎨 Playform Platform and Workflow

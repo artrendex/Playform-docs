@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Face Suite"
+permalink: /facecraft-suite/
+
+---
+
+
 # FaceCraft Suite
 
 The FaceCraft Suite is Playform's specialized collection of AI-powered face manipulation tools. These apps offer artists, designers, content creators, and casual users powerful ways to blend, swap, edit, and stylize faces while maintaining high-quality, face-consistent results. Whether for creative exploration, professional content, or fun, the FaceCraft Suite provides intuitive, flexible tools for every need.

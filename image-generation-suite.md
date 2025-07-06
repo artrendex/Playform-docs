@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Image Generation Suite"
+permalink: /image-generation-suite/
+
+---
 # Image Generation Suite
 
 Playform's Image Generation Suite offers a wide range of AI-powered tools designed for artists, designers, content creators, and casual users. Each tool is optimized for specific creative workflows, providing flexibility from simple prompt-based generation to advanced, interactive canvas-based creation.
