@@ -1,0 +1,8 @@
+title: Playform Documentation
+description: Image Generator and AI Art using Playform.
+url: https://artrendex.github.io
+baseurl: /Playform-docs
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  
