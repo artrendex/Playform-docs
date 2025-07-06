@@ -9,7 +9,7 @@ plugins:
 minima:
   nav_pages:
     - image-generation-suite.md
-    - face-craft-suite.md
+    - facecraft-suite.md
     - faq.md
 
 # header_pages::
