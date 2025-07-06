@@ -21,11 +21,10 @@ Creating professional headshot photos has never been easier thanks to AI image g
 ## Step-by-Step Guide
 
 ### Step 1: Access the Tool
-- Visit the [Playform Website](https://www.playform.io/refaceit?utm_source=github_docs) to learn more about the Re-FaceIt AI Photo app.
-- Log in or create a free account at [create.playform.io](https://create.playform.io/login?utm_source=github_docs).
+- Log in or create a free account at [create.playform.io](https://create.playform.io).
 
 ### Step 2: Start a New Project
-- Select **Re-FaceIt AI Photo** from the available apps on your Playform dashboard.
+- Create a Project and select **Re-FaceIt AI Photo** from the available apps on your Playform dashboard.
 
 ### Step 3: Upload Your Photo
 - Upload a clear, front-facing photo of yourself.
@@ -34,12 +33,12 @@ Creating professional headshot photos has never been easier thanks to AI image g
 ### Step 4: Customize Your Headshot
 - Choose from various headshot styles, backgrounds, and lighting options.
 - You can generate different looks, from formal corporate styles to casual professional settings.
+- You can use the prompt to add refining details, e.g. "man in black suit", "man in blue shirt", etc.
 
 ### Step 5: Refine and Enhance
-- Use Playform’s built-in upscaling and editing tools to sharpen your image and adjust fine details.
+- Use Playform’s built-in upscaling and editing tools to sharpen your image and adjust fine details if needed.
 
 ### Step 6: Save and Download
-- Bookmark your final result for easy future access.
 - Download your high-resolution headshot directly to your device.
 
 ## Tips for Best Results
@@ -47,6 +46,9 @@ Creating professional headshot photos has never been easier thanks to AI image g
 - Use high-quality photos with a clear, unobstructed view of your face.
 - Avoid heavily stylized or obscured images for the initial upload.
 - Experiment with different backgrounds and outfits to match your professional branding.
+
+- Visit the [Playform Website](https://www.playform.io/ai-photo-generator) to learn more about the Re-FaceIt AI Photo app.
+
 
 ## Related Use Cases
 
