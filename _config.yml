@@ -5,14 +5,20 @@ baseurl: /Playform-docs
 theme: minima
 plugins:
   - jekyll-seo-tag
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Image Generation Suite"
-    url: "./image-generation-suite.md"
-  - title: "FaceCraft Suite"
-    url: "./facecraft-suite.md"
-  - title: "Prompt Free Generation"
-    url: "./prompt-free-generation.md"
-  - title: "FAQ"
-    url: "./faq.md"
+minima:
+  nav_pages:
+    - image-generation-suite.md
+    - face-craft-suite.md
+    - faq.md
+
+# nav:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Image Generation Suite"
+#     url: "./image-generation-suite.md"
+#   - title: "FaceCraft Suite"
+#     url: "./facecraft-suite.md"
+#   - title: "Prompt Free Generation"
+#     url: "./prompt-free-generation.md"
+#   - title: "FAQ"
+#     url: "./faq.md"
