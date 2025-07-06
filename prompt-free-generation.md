@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Image Generation Suite"
-permalink: /image-generation-suite/
+title: "Promptfree Generation"
+permalink: /prompt-free-generation/
 
 ---
 

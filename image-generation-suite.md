@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Image Generation Suite"
+description: "AI Image Generator - AI Art Generator"
 permalink: /image-generation-suite/
 
 ---
