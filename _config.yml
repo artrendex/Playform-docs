@@ -6,10 +6,16 @@ theme: minima
 plugins:
   - jekyll-seo-tag
 
-header_pages::
+minima:
+  nav_pages:
     - image-generation-suite.md
     - face-craft-suite.md
     - faq.md
+
+# header_pages::
+#     - image-generation-suite.md
+#     - face-craft-suite.md
+#     - faq.md
 
 # nav:
 #   - title: "Home"
