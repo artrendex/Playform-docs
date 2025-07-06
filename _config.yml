@@ -6,7 +6,7 @@ theme: minima
 plugins:
   - jekyll-seo-tag
 minima:
-  nav_pages:
+  header_pages::
     - image-generation-suite.md
     - face-craft-suite.md
     - faq.md
