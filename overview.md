@@ -1,4 +1,4 @@
-# Home & Overview
+# Overview - Getting Started
 
 Welcome to **Playform**, the modular AI-powered platform designed to simplify your creative workflow. Whether you're a professional artist, designer, content creator, or a casual user, Playform makes it easy to find the right tool for your specific task—**without needing to learn complex interfaces or master prompt engineering**.
 

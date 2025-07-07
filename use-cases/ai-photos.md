@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Photos"
+description: "Generate AI Photos and Photoshoots Using an Uploaded Face Images Unlimited Free"
+permalink: /ai-photos/
+---
+
 # How to Generate AI Photos Using an Uploaded Face Image
 
 ## Overview
@@ -61,14 +68,14 @@ With AI-powered tools, you can generate realistic, stylized, or artistic photos 
 
 ## Related Use Cases
 
-- [How to Create Professional AI Headshots](./create-professional-headshot.md)
-- [How to Create Professional PFP Using Your Photo](./create-professional-pfp.md)
-- [How to Create Fun PFP for Social Media](./create-fun-pfp.md)
+- [How to Create Professional AI Headshots](./ai-headshot.md)
+- [How to Create Professional PFP Using Your Photo](./professional-pfp.md)
+- [How to Create Fun PFP for Social Media](./fun-pfp.md)
 
 ## Frequently Asked Questions
 
 ### Can I use these AI photos for commercial purposes?
-Yes. All AI-generated photos created using [Playform](https://www.playform.io/refaceit?utm_source=github_docs) are yours to use commercially.
+Yes. All AI-generated photos created using [Playform](https://www.playform.io/ai-photo-generator) are yours to use commercially.
 
 ### Are my photos kept private?
 Yes. Your uploaded photos and generated images are private by default. You control whether to share them publicly.
@@ -80,6 +87,6 @@ No. Playform’s Re-FaceIt AI Photo app is user-friendly and does not require ad
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)

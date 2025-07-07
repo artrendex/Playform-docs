@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Celebtrity Image from Photo"
+description: "Create a Celebrity-Like photo with your own face using AI - unlimited free"
+permalink: /celebrity-like-photo/
+---
+
 # How to Create a Celebrity-Like Photo Using AI
 
 ## Overview
@@ -55,7 +62,7 @@ Creating a celebrity-like photo is now simple and accessible with AI tools. Whet
 
 - [How to Create AI Photos Using an Uploaded Face Image](./generate-ai-photos.md)
 - [How to Create Fun PFP for Social Media](./create-fun-pfp.md)
-- [How to Create Professional PFP Using Your Photo](./create-professional-pfp.md)
+- [How to Create a Cartoon from a Photo](./cartoon-from-photo.md)
 
 ## Frequently Asked Questions
 
@@ -72,6 +79,6 @@ No. Playform’s Re-FaceIt AI Photo app is user-friendly and does not require ad
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)

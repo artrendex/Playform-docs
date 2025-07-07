@@ -1,3 +1,9 @@
+---
+layout: page
+title: "AI Anmie PfP from Photos"
+description: "generate AI Anime image and Anime pfp from photos"
+permalink: /ai-anime-pfp/
+---
 # How to Create an Anime Character from a Photo Using AI
 
 ## Overview
@@ -62,9 +68,9 @@ This guide helps with popular queries like:
 
 ## Related Use Cases
 
-- [How to Create a Cartoon from a Photo](./create-cartoon-from-photo.md)
-- [How to Create Fun PFP for Social Media](./create-fun-pfp.md)
-- [How to Create AI Photos Using an Uploaded Face Image](./generate-ai-photos.md)
+- [How to Create a Cartoon from a Photo](./cartoon-from-photo.md)
+- [How to Create Fun PFP for Social Media](./fun-pfp.md)
+- [How to Create AI Photos Using an Uploaded Face Image](./ai-photos.md)
 
 ## Frequently Asked Questions
 
@@ -72,7 +78,7 @@ This guide helps with popular queries like:
 Yes. You can use Playform’s free plan to generate anime characters with daily limits.
 
 ### Can I use my anime avatar commercially?
-Yes. All anime avatars you create using [Playform](https://www.playform.io/refaceit?utm_source=github_docs) are yours to use for personal or commercial purposes.
+Yes. All anime avatars you create using [Playform](https://www.playform.io/ai-photo-generator) are yours to use for personal or commercial purposes.
 
 ### Are my photos kept private?
 Yes. Your uploaded photos and generated anime images are private by default. You control whether to share them publicly.
@@ -84,6 +90,6 @@ No. Playform’s Re-FaceIt AI Photo app is simple and user-friendly, no design e
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Professional PfP"
+description: "Generate Professional PFP Using Your Photos - Unlimited Free"
+permalink: /professional-pfp/
+---
+
 # How to Create Professional PFP (Profile Picture) Using Your Photo
 
 ## Overview
@@ -49,9 +56,9 @@ Creating a professional and eye-catching profile picture (PFP) for social media 
 
 ## Related Use Cases
 
-- [How to Create Professional AI Headshots](./create-professional-headshot.md)
-- [How to Create a Celebrity-Like Photo](./create-celebrity-like-photo.md)
-- [How to Create AI Characters for Storytelling](./create-characters.md)
+- [How to Create Professional AI Headshots](./professional-headshot.md)
+- [How to Create AI Photos Using an Uploaded Face Image](./ai-photos.md)
+
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ Our platform combines artistic flexibility, face-specific workflows, and no-code
 
 ## 📂 Documentation Structure
 
-1. [**Home & Overview**](./overview.md)
+1. [**Overview - Get Started**](./overview.md)
 
    Introduces Playform's core concepts, value, and navigation map.
 
@@ -49,21 +49,23 @@ Our platform combines artistic flexibility, face-specific workflows, and no-code
 
 
 
-5.  ### Generate at Scale & AI Training Suite  
+5.  **Generate at Scale & AI Training Suite**  
    - [**Batch Image Generation**](./) : Produce hundreds of visuals in one go  
    - [**Freeform Diffusion**](./prompt-free-generation.md)  *(Prompt‑Free Generator)*: Upload visuals to generate consistent, brand‑aligned content at scale  
    - [**GAN traing Tools**](./): Train your own models using curated datasets <!-- ([playform.io](https://www.playform.io/tutorials?utm_source=chatgpt.com))  -->
 
-6. **Artist Studio and User Pofile Pages**  
+6. [**Use Cases**](use-cases.md)
+   Explore many use cased of different image generators and face generator tools
+7. **Artist Studio and User Pofile Pages**  
    Creat your own showcase profile page and share it with the world. Join the [Playform Studio](https://www.playform.io/studio) for artist exposure and exhibitions. 
 
-7. [**FAQ & Troubleshooting**](./faq.md)  
+8. [**FAQ & Troubleshooting**](./faq.md)  
    Common questions about suites, apps, pricing, privacy, exports, and errors.
 
-8. **Support & Contact**  
+9. **Support & Contact**  
    Get help via our support channels, community forums, or contact form.
 
-9. **Terms of Use**  
+10. **Terms of Use**  
     - [**Privacy by Default**](./privacy-use-and-user-responsibility.md#-privacy-by-default) 
     - [**Commercial Rights**](./privacy-use-and-user-responsibility.md/#-commercial-rights)
     - [**User Responsibility and Copyright Compliance**](./privacy-use-and-user-responsibility.md/#️-user-responsibility-and-copyright-compliance)

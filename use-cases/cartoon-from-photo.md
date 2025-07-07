@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Cartoon from Photos"
+description: "Turn a Photo into a Cartoon image using AI "
+permalink: /cartoon-from-photo/
+---
+
 # How to Turn a Photo into a Cartoon Using AI
 
 ## Overview
@@ -70,7 +77,7 @@ This guide helps with popular queries like:
 
 - [How to Create Fun PFP for Social Media](./create-fun-pfp.md)
 - [How to Create AI Photos Using an Uploaded Face Image](./generate-ai-photos.md)
-- [How to Create a Celebrity-Like Photo](./create-celebrity-like-photo.md)
+- [How to Create a Celebrity-Like Photo](./celebrity-like-photo.md)
 
 ## Frequently Asked Questions
 
@@ -78,7 +85,7 @@ This guide helps with popular queries like:
 Yes. You can use Playform’s free plan to generate cartoon photos with daily limits.
 
 ### Can I use my cartoon picture commercially?
-Yes. All cartoon images you create using [Playform](https://www.playform.io/refaceit?utm_source=github_docs) are yours to use for personal or commercial purposes.
+Yes. All cartoon images you create using [Playform](https://www.playform.io/ai-photo-generator) are yours to use for personal or commercial purposes.
 
 ### Are my photos kept private?
 Yes. Your uploaded photos and generated cartoon images are private by default. You control whether to share them publicly.
@@ -90,6 +97,6 @@ No. Playform’s Re-FaceIt AI Photo app is beginner-friendly and does not requir
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)

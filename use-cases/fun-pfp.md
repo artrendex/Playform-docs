@@ -1,3 +1,11 @@
+---
+layout: page
+title: "AI Fun PfP"
+description: "Generate Fun PFP for Social Media Using Your Photos - Unlimited Free"
+permalink: /fun-pfp/
+---
+
+
 # How to Create Fun PFP for Social Media Using Your Photo
 
 ## Overview
@@ -52,9 +60,9 @@ Creating a fun and personalized profile picture (PFP) for social media is fast a
 
 ## Related Use Cases
 
-- [How to Create Professional PFP Using Your Photo](./create-professional-pfp.md)
-- [How to Create AI Characters for Storytelling](./create-characters.md)
-- [How to Create a Celebrity-Like Photo](./create-celebrity-like-photo.md)
+- [How to Create Professional PFP Using Your Photo](./professional-pfp.md)
+- [How to Create AI Characters for Storytelling](./ai-character-images.md)
+- [How to Create a Celebrity-Like Photo](./celebrity-like-photo.md)
 
 ## Frequently Asked Questions
 

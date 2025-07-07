@@ -134,5 +134,5 @@ For additional details and live examples, visit:
 - [Playform FaceCraft Overview](https://www.playform.io/face-craft)
 - [Face Mix](https://www.playform.io/facemix)
 - [Face Swap](https://www.playform.io/face-swap)
-- [Re-Face-It AI Photos](https://www.playform.io/refaceit)
+- [Re-Face-It AI Photos](https://www.playform.io/ai-photo-generator)
 - [AI Character Generator](https://www.playform.io/ai-character-generator)

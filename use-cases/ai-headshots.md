@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Professional Headshots"
+description: "Generate AI Professional Headshots Unlimited Free"
+permalink: /ai-headshots/
+---
+
 # How to Create Professional Headshot Photos with AI
 
 ## Overview
@@ -52,14 +59,15 @@ Creating professional headshot photos has never been easier thanks to AI image g
 
 ## Related Use Cases
 
-- [How to Create a Celebrity-Like Photo](./create-celebrity-like-photo.md)
-- [How to Create AI Characters for Storytelling](./create-characters.md)
-- [How to Create Professional PFP Using Your Photo](./create-professional-pfp.md)
+- [How to Create AI Photos Using an Uploaded Face Image](./ai-photos.md)
+- [How to Create Professional AI Headshots](./ai-headshot.md)
+- [How to Create Professional PFP Using Your Photo](./professional-pfp.md)
+- [How to Create Fun PFP for Social Media](./fun-pfp.md)
 
 ## Frequently Asked Questions
 
 ### Can I use these headshots commercially?
-Yes. All headshots generated using [Playform](https://www.playform.io/refaceit?utm_source=github_docs) are yours to use for professional and commercial purposes.
+Yes. All headshots generated using [Playform](https://www.playform.io/ai-photo-generator) are yours to use for professional and commercial purposes.
 
 ### Are my photos kept private?
 Yes. Your uploaded photos and generated headshots are private by default. You control whether to share them publicly.
@@ -71,6 +79,6 @@ No. Playform’s Re-FaceIt AI Photo app is user-friendly and requires no advance
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)

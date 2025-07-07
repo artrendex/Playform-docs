@@ -1,3 +1,10 @@
+---
+layout: page
+title: "AI Character Image Generator"
+description: "Generate AI Character images with face-consistency at scale"
+permalink: /ai-anime-pfp/
+---
+
 # How to Create Character Images with Face Consistency Using AI
 
 ## Overview
@@ -52,14 +59,14 @@ Using Playform’s Re-FaceIt AI Photo app, you can create consistent character i
 
 ## Related Use Cases
 
+- [How to create character images at scale with no prompt using Freeform Diffusion](./)
+- [Using Face Swap to create character images](./face-swap-create-character-images.md)
 - [How to Create AI Photos Using an Uploaded Face Image](./generate-ai-photos.md)
-- [How to Create Fun PFP for Social Media](./create-fun-pfp.md)
-- [How to Create a Celebrity-Like Photo](./create-celebrity-like-photo.md)
 
 ## Frequently Asked Questions
 
 ### Can I use these character images for commercial purposes?
-Yes. All character images you generate using [Playform](https://www.playform.io/refaceit?utm_source=github_docs) are yours to use for personal or commercial use.
+Yes. All character images you generate using [Playform](https://www.playform.io/ai-photo-generator) are yours to use for personal or commercial use.
 
 ### Are my photos kept private?
 Yes. Your uploaded photos and generated character images are private by default. You control whether to share them publicly.
@@ -71,6 +78,6 @@ No. Playform’s Re-FaceIt AI Photo app is designed to be user-friendly and does
 
 ## Additional Resources
 
-- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/refaceit?utm_source=github_docs)
-- [Playform Tutorials](https://www.playform.io/tutorials?utm_source=github_docs)
-- [Sign Up or Log In](https://create.playform.io/login?utm_source=github_docs)
+- [Re-FaceIt AI Photo – Learn More](https://www.playform.io/ai-photo-generator)
+- [Learn more about AI face generator tools  - FaceCraft Suite](https://create.playform.io/face-craft)
+- [Learn more about AI image generation tools](https://create.playform.io/ai-image-generators)
