@@ -52,7 +52,11 @@ Our platform combines artistic flexibility, face-specific workflows, and no-code
 5.  **Generate at Scale & AI Training Suite**  
    - [**Batch Image Generation**](./) : Produce hundreds of visuals in one go  
    - [**Freeform Diffusion**](./prompt-free-generation.md)  *(Prompt‑Free Generator)*: Upload visuals to generate consistent, brand‑aligned content at scale  
-   - [**GAN traing Tools**](./): Train your own models using curated datasets <!-- ([playform.io](https://www.playform.io/tutorials?utm_source=chatgpt.com))  -->
+
+   **GAN traing Tools**: Train your own models using curated datasets <!-- ([playform.io](https://www.playform.io/tutorials?utm_source=chatgpt.com))  -->
+   - [**Freeform GAN**](./freeform_gan.md)
+   - [**Creative Morph GAN**](./creative_morph_gan.md)
+   - [**Style Transfer**](./style-transfer-gan.md)
 
 6. [**Use Cases**](use-cases.md)
    Explore many use cased of different image generators and face generator tools

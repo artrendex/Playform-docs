@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Face Suite"
+description: "Face Generator Suite of AI tool - Face Mix, Merge, Morph, Swap, AI Photos and more"
 permalink: /facecraft-suite/
 
 ---
